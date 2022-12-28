@@ -23,5 +23,5 @@ sudo useradd mourinho
 sudo useradd pochettino
 sudo passwd -d royal
 sudo usermod -aG sudo royal
-sudo chown abdulrahman /etc/passwd
+
 
